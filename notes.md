@@ -7,3 +7,12 @@
 ```
 docker build -t hola-evelyn .
 ```
+# Listar las imagenes
+```
+docker image ls
+```
+# Ejecutar el contenedor
+```
+docker run hola-evelyn
+```
+
