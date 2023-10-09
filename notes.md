@@ -15,4 +15,23 @@ docker image ls
 ```
 docker run hola-evelyn
 ```
+# Rutas
+
+Rutas absolutas:
+Comienzan con /var/log
+
+Rutas relativas:
+Comienzan con ./log
+
+# Variable de entorno persistente
+
+echo MIVARIABLE="La variable de entorno" >> .bashrc
+
+source .bashrc
+
+Fix: command not found
+nano .bashrc y poner "" a la variable de entorno
+
+
+
 
