@@ -32,6 +32,3 @@ source .bashrc
 Fix: command not found
 nano .bashrc y poner "" a la variable de entorno
 
-
-
-
