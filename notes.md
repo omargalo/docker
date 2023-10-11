@@ -33,4 +33,4 @@ Fix: command not found
 nano .bashrc y poner "" a la variable de entorno
 
 # Saludo
-Hola Yanet
+Hola Yanet desde rama pruebas
